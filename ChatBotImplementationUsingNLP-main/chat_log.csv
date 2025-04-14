@@ -1,0 +1,55 @@
+User Input,Chatbot Response,Timestamp
+hii,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 20:57:50
+no,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 20:58:08
+chat,Sure! You can start chatting with Dr. [Name] now.,2025-04-04 20:58:20
+utsav,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 20:58:47
+hii i want to ,"Sure! Please provide the doctor's name, preferred date, and time.",2025-04-04 21:03:20
+check_availability,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:03:47
+book an appoinment,Which department or specialist do you want to book an appointment with?,2025-04-04 21:04:21
+dentist,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:04:33
+chat,Dr. [Name] is available for chat consultation. Connecting you now.,2025-04-04 21:04:43
+ok,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:05:24
+cold4,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 21:13:31
+chat,Sure! You can start chatting with Dr. [Name] now.,2025-04-04 21:13:37
+i have suffering from fever,"Yes, I can fetch your patient history. Do you need a summary?",2025-04-04 21:13:52
+yes,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 21:14:05
+            book_appointment,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 21:17:27
+I want to book an appointment,"Sure! Please provide the doctor's name, preferred date, and time.",2025-04-04 21:17:49
+Dr Arohi,We have Dr. [Name] available for neurology. Would you like to schedule a consultation?,2025-04-04 21:18:07
+Can I schedule a visit with a doctor?,"Sure! Please provide the doctor's name, preferred date, and time.",2025-04-04 21:18:34
+Book an appointment for me at 10 AM tomorrow,Which department or specialist do you want to book an appointment with?,2025-04-04 21:19:38
+cardiologist,There are available slots on [date]. Would you like me to book it for you?,2025-04-04 21:20:19
+10,"Sure! Please provide the doctor's name, preferred date, and time.",2025-04-04 21:20:25
+What are the available slots for Dr. John?,Dr. John is available on [date] at [time]. Would you like to confirm the booking?,2025-04-04 21:20:58
+yes,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:21:18
+chat,Sure! You can start chatting with Dr. [Name] now.,2025-04-04 21:21:27
+book_appointment,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:33:39
+book_appointment,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 21:34:36
+I want to book an appointment,Which department or specialist do you want to book an appointment with?,2025-04-04 21:34:53
+can I get an appointment with a cardiologist,Dr. John is available on [date] at [time]. Would you like to confirm the booking?,2025-04-04 21:35:34
+Dr. John is available on 08-04-2025 at 10:00 AM to 3:00 PM. Would you like to confirm the booking?,Which department or specialist do you want to book an appointment with?,2025-04-04 21:36:00
+cardiologist,Dr. John is available on [date] at [time]. Would you like to confirm the booking?,2025-04-04 21:36:41
+There are available slots on 08-04-2025 . Would you like me to book it for you,"Sure! Please provide the doctor's name, preferred date, and time.",2025-04-04 21:36:59
+Dr Arohi,We have Dr. [Name] available for neurology. Would you like to schedule a consultation?,2025-04-04 21:37:11
+yes,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 21:37:20
+chat,Sure! You can start chatting with Dr. [Name] now.,2025-04-04 21:37:25
+Tell me about Dr. Smith,We have Dr.Arohi available for neurology. Would you like to schedule a consultation?,2025-04-04 21:39:27
+I need a doctor who specializes in neurology,We have Dr.Arohi available for neurology. Would you like to schedule a consultation?,2025-04-04 21:39:50
+Can I visit the clinic without an appointment?,"Yes, walk-ins are accepted. However, scheduled appointments have priority. Would you like me to check the estimated wait time?",2025-04-04 21:40:04
+I need to see a doctor without booking,"Yes, walk-ins are accepted. However, scheduled appointments have priority. Would you like me to check the estimated wait time?",2025-04-04 21:40:24
+You can visit the clinic as a walk-in. Let me check the current queue.,You can visit the clinic as a walk-in. Let me check the current queue.,2025-04-04 21:40:41
+check_availability,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 23:28:37
+chat,Sure! You can start chatting with Dr. Arohi now.,2025-04-04 23:28:51
+yes,Sure! Would you prefer a video call or chat-based consultation?,2025-04-04 23:29:01
+chat,Dr. Arohi is available for chat consultation. Connecting you now.,2025-04-04 23:29:09
+hii,We offer virtual consultations via video call and chat. Which one do you prefer?,2025-04-04 23:29:17
+book_appointment,Sure! Would you prefer a video call or chat-based consultation?,2025-04-06 01:51:53
+chat,Sure! You can start chatting with Dr. Arohi now.,2025-04-06 01:52:01
+I need to reschedule my appointment,"Your appointment is currently scheduled for [08-04-2025, 12:00 PM]. Would you like to reschedule or cancel?",2025-04-06 01:52:34
+Can I change my booking to another time?,What new date and time would you prefer?,2025-04-06 01:52:56
+Can I visit the clinic without an appointment?,You can visit the clinic as a walk-in. Let me check the current queue.,2025-04-06 01:55:03
+Do you accept walk-in patients?,You can visit the clinic as a walk-in. Let me check the current queue.,2025-04-06 01:55:22
+I need to see a doctor without booking,You can visit the clinic as a walk-in. Let me check the current queue.,2025-04-06 01:55:38
+"Yes, walk-ins are accepted. However, scheduled appointments have priority. Would you like me to check the estimated wait time?","Yes, I can fetch your patient history. Do you need a summary?",2025-04-06 01:56:11
+How much does a consultation cost?,A consultation costs RS 5000. You can pay online or at the clinic.,2025-04-06 01:56:46
+Can I pay online for my appointment?,"We accept credit/debit cards, insurance, and online payments.",2025-04-06 01:57:10

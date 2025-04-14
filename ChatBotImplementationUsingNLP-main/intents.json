@@ -1,0 +1,161 @@
+[
+        {
+            "tag": "book_appointment",
+            "patterns": [
+                "I want to book an appointment",
+                "Can I schedule a visit with a doctor?",
+                "I need to see a doctor on Monday",
+                "Book an appointment for me at 10 AM tomorrow"
+            ],
+            "responses": [
+                "Can I schedule a visit with a doctor?",
+                "Which department or specialist do you want to book an appointment with?"
+            ]
+        },
+        {
+            "tag": "check_availability",
+            "patterns": [
+                "What are the available slots for Dr. John?",
+                "Is there any availability on Friday?",
+                "When can I get an appointment with a cardiologist?"
+            ],
+            "responses": [
+                "Dr. John is available on 08-04-2025 at 10:00 AM to 3:00 PM. Would you like to confirm the booking?",
+                "There are available slots on 08-04-2025 . Would you like me to book it for you?"
+            ]
+        },
+        {
+            "tag": "virtual_consultation",
+            "patterns": [
+                "Can I book a virtual consultation?",
+                "I want an online doctor appointment",
+                "Can I consult a doctor via video call?",
+                "Schedule a telemedicine appointment"
+            ],
+            "responses": [
+                "Sure! Would you prefer a video call or chat-based consultation?",
+                "We offer virtual consultations via video call and chat. Which one do you prefer?"
+            ]
+        },
+        {
+            "tag": "video_call_appointment",
+            "patterns": [
+                "I want a video consultation",
+                "Can I meet the doctor on a video call?",
+                "Schedule a video appointment with a doctor"
+            ],
+            "responses": [
+                "I can schedule a video call with Dr. Arohi. Please provide a preferred 08-04-2025 and 10:00 AM to 3:00 PM .",
+                "Dr. Arohi is available for chat consultation. Connecting you now."
+            ]
+        },
+        {
+            "tag": "chat_based_consultation",
+            "patterns": [
+                "I prefer a chat consultation",
+                "Can I talk to a doctor via chat?",
+                "I want to consult through messages"
+            ],
+            "responses": [
+                "Sure! You can start chatting with Dr. Arohi now.",
+                "Dr. Arohi is available for chat consultation. Connecting you now."
+            ]
+        },
+        {
+            "tag": "prescription_reports",
+            "patterns": [
+                "Where can I see my prescriptions?",
+                "Can I download my medical reports?",
+                "Send me my latest prescription"
+            ],
+            "responses": [
+                "Your prescription from Dr. Arohi is available in your account. Would you like me to send it to your email?",
+                "I have fetched your latest prescription. You can download it here: [link]."
+            ]
+        },
+        {
+            "tag": "online_payment",
+            "patterns": [
+                "How can I pay for my virtual consultation?",
+                "Do you accept online payments?",
+                "Can I pay using UPI or credit card?"
+            ],
+            "responses": [
+                "You can pay via UPI, credit/debit card, or net banking. Would you like the payment link?",
+                "Your virtual consultation fee is RS 500. Click here to complete the payment: [link]."
+            ]
+        },
+        {
+            "tag": "modify_appointment",
+            "patterns": [
+                "I need to reschedule my appointment",
+                "Can I change my booking to another time?",
+                "Cancel my appointment for tomorrow"
+            ],
+            "responses": [
+                "Your appointment is currently scheduled for [08-04-2025, 12:00 PM]. Would you like to reschedule or cancel?",
+                "What new date and time would you prefer?"
+            ]
+        },
+        {
+            "tag": "doctor_info",
+            "patterns": [
+                "Tell me about Dr. Smith",
+                "Who are the available dermatologists?",
+                "I need a doctor who specializes in neurology"
+            ],
+            "responses": [
+                "Dr. Smith is a cardiologist with 10 years of experience. Would you like to book an appointment?",
+                "We have Dr.Arohi available for neurology. Would you like to schedule a consultation?"
+            ]
+        },
+        {
+            "tag": "walkin_appointment",
+            "patterns": [
+                "Can I visit the clinic without an appointment?",
+                "Do you accept walk-in patients?",
+                "I need to see a doctor without booking"
+            ],
+            "responses": [
+                "Yes, walk-ins are accepted. However, scheduled appointments have priority. Would you like me to check the estimated wait time?",
+                "You can visit the clinic as a walk-in. Let me check the current queue."
+            ]
+        },
+        {
+            "tag": "billing_inquiry",
+            "patterns": [
+                "How much does a consultation cost?",
+                "What are the payment options?",
+                "Can I pay online for my appointment?"
+            ],
+            "responses": [
+                "A consultation costs RS 5000. You can pay online or at the clinic.",
+                "We accept credit/debit cards, insurance, and online payments."
+            ]
+        },
+        {
+            "tag": "patient_records",
+            "patterns": [
+                "Can you access my medical records?",
+                "What details do you have about my last visit?",
+                "Do you have my patient history?"
+            ],
+            "responses": [
+                "Your last visit was on 08-04-2025 with Dr. Arohi. Would you like me to retrieve your medical records?",
+                "Yes, I can fetch your patient history. Do you need a summary?"
+            ]
+        },
+        {
+            "tag": "general_help",
+            "patterns": [
+                "How does this system work?",
+                "What can you do?",
+                "Help me use this chatbot"
+            ],
+            "responses": [
+                "I can help you book, modify, or cancel appointments, check doctor availability, and provide clinic details. How can I assist you today?"
+            ]
+        }
+    ]
+
+
